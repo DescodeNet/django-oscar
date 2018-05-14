@@ -77,9 +77,9 @@ with open(os.path.join(PROJECT_DIR, 'README.rst')) as fh:
 setup(
     name='django-oscar',
     version=get_version().replace(' ', '-'),
-    url='https://github.com/django-oscar/django-oscar',
-    author="David Winterbottom",
-    author_email="david.winterbottom@gmail.com",
+    url='https://github.com/DescodeNet/django-oscar',
+    author="DesCode",
+    author_email="master@descode.net",
     description="A domain-driven e-commerce framework for Django",
     long_description=long_description,
     keywords="E-commerce, Django, domain-driven",
